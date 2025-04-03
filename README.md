@@ -13,6 +13,10 @@ solar_power_plant_analysis:
 
 ---
 
+## Overview
+This project analyzes solar power generation data from two Indian solar plants, comparing power output trends, inverter efficiency, and irradiation levels to optimize energy utilization and detect underperforming inverters.
+
+
 ## **Analysis #1 – Power Generation Trends**  
 
 ### **Objective:**  
